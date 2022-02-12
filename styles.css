@@ -1,0 +1,61 @@
+ul{
+	background-color: turquoise;
+	height: 100px;
+	list-style: none;
+	line-height: 100px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+	color: olive;
+	font-size: 50px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+li{
+	float: right;
+color: olive;
+font-family: 'Ubuntu', sans-serif;
+
+}
+
+a{
+	display: block;
+	padding: 0 28px;
+	color: olive;
+	text-decoration: none;
+	font-size: 50px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+a:hover{
+	background-color: beige;
+	font-size: 75px;
+}
+
+p{
+	font-family: 'Ubuntu', sans-serif;
+	color: coral;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+h2{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 40px;
+	color: olive;	
+}
+
+ div{
+ 	border-style:solid;
+ 	border-color: coral;
+ 	border-width: 5px;
+ 	padding: 10px;
+ 	margin: 10px;
+ 	border-radius: 20px;
+ }       
+ body {
+background-image:url('bg2.png');
+background-repeat:no-repeat;
+background-size:cover;
+}
